@@ -1,0 +1,8 @@
+byelide
+commitlint
+pinia
+rushstack
+stylelint
+vite
+vitest
+vuejs
